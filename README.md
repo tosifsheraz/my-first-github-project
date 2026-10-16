@@ -56,3 +56,13 @@ I am learning Git, GitHub, cloud computing, and DevOps.
 
 My goal is to build practical projects and develop real-world technical skills.
 
+## About Me
+
+
+
+I am learning Git, GitHub, cloud computing, and DevOps.
+
+
+
+My goal is to build practical projects and develop real-world technical skills.
+
